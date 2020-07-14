@@ -1,0 +1,15 @@
+{
+    "name": "awesome-pack-golang",
+    "displayName": "awesome pack golang",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName"
+    ]
+}
